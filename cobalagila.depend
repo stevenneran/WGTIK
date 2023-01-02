@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671540829 source:c:\users\steven\desktop\tp_sd_mod13\cobalagila\cobalagila.cpp
+	"cobalagila.h"
+
+1671538039 c:\users\steven\desktop\tp_sd_mod13\cobalagila\cobalagila.h
+	<iostream>
+
+1671540803 source:c:\users\steven\desktop\tp_sd_mod13\cobalagila\main.cpp
+	"cobalagila.h"
+
